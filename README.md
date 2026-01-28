@@ -1,7 +1,7 @@
 # Mechanical Strength Testing & Analysis App 
 
 ## Live Preview
-**Access the application here:** (https://krystianleck.github.io/aplikacja/)](https://krystianleck.github.io/Mechanical-Strength-Testing-App/)
+**Access the application here:** https://krystianleck.github.io/Mechanical-Strength-Testing-App/
 
 ## Project Overview
 **This project was developed as part of my Engineering Thesis.** It is a specialized web-based application designed to automate calculations and documentation for **Strength of Materials** (Mechanical Testing). The tool streamlines the laboratory process, from data input to the final analysis of material properties.
